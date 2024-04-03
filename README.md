@@ -11,3 +11,7 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 - Karlis
 - Ruta
 - Reinis
+
+## I like
+- to read books
+- to ride my bike
